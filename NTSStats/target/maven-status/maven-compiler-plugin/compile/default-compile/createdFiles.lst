@@ -1,0 +1,10 @@
+org\matt\ntsstats\SetsDAO.class
+org\matt\ntsstats\TournamentsDAO.class
+org\matt\ntsstats\Placing.class
+org\matt\ntsstats\Player.class
+org\matt\ntsstats\Set.class
+org\matt\ntsstats\Tournament.class
+org\matt\ntsstats\CharactersDAO.class
+org\matt\ntsstats\PlacingsDAO.class
+org\matt\ntsstats\PlayersDAO.class
+org\matt\ntsstats\Character.class
