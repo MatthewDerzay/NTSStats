@@ -1,0 +1,9 @@
+Software Development Plan – Summer 2018
+Goals:
+1.	Enhance NTSStats Application
+2.	Understand JSON
+3.	Understand XML
+4.	Rewrite NTSStats with Spring
+5.	Create my own game with unity
+6.	Continue work on club game
+7.	Study for Java Certification
